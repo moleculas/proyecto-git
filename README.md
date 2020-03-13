@@ -1,6 +1,6 @@
 # proyecto-git
 Proyecto para aprender Git y Github
-##Introducción
+## Introducción
 ```php
 <?php 
 phpinfo(); 
